@@ -1,14 +1,12 @@
-# Halo semua! 
+# Hello everyone! 
 
-Perkenalkan nama saya **Calvin Revianto**.<br>
+Introducing my name **Calvin Revianto**.<br>
 
-Saya seorang **Mahasiswa Teknik Informatika** di [UDINUS](https://dinus.ac.id/en/).<br>
+I am an **Informatics Engineering Student** at [UDINUS](https://dinus.ac.id/en/).<br>
 
-Saya bertanggung jawab pada kualitas materi iOS dengan dibekali [sertifikasi dari University of Toronto](https://www.coursera.org/account/accomplishments/specialization/CLKJD8XBXJ3M).<br>
+I also have a certificate in coding [Memulai Dasar Pemrograman untuk menjadi Pengembang Software](https://www.dicoding.com/certificates/1RXY1JYO9PVM).<br>
 
-Saya juga sedang mencari hobi baru seperti memancing🎣.<br>
-
-Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/calvin-revianto-1413152ba/)ku ya.
+I'm also looking for a new hobby like fishing🎣.<br>
 
 ### Github Statistic
 <p align="left">
@@ -17,3 +15,42 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=penuliscode&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+# ⚡ Programming Language and tools
+<p align="left">
+  <a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
+</a>
+ <a href="https://github.com/harish-sethuraman/readme-components">
+ <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
+</a>
+<a href="https://github.com/harish-sethuraman/readme-components">
+<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
+</a>
+</p>
+
+<hr>
+<p align="center">
+   <i>Reach me on </i>
+   <br>
+  <br>
+<a target="_blank" href="https://www.linkedin.com/in/calvin-revianto-1413152ba"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:calvinjepara20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+</p>
+
+
+
+<!--
+**calvinrev20/calvinrev20** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+Here are some ideas to get you started:
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
