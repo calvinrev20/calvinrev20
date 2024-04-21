@@ -1,6 +1,4 @@
-# Hello everyone! 
-
-Introducing my name **Calvin Revianto**.<br>
+# Hello👋everyone! I'm Calvin
 
 I am an **Informatics Engineering Student** at [UDINUS](https://dinus.ac.id/en/).<br>
 
@@ -8,7 +6,7 @@ I also have a certificate in coding [Memulai Dasar Pemrograman untuk menjadi Pen
 
 I'm also looking for a new hobby like fishing🎣.<br>
 
-### Github Statistic
+### 📊Github Statistic
 <p align="left">
 <a href="https://github.com/calvinrev20">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=penuliscode&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -16,18 +14,6 @@ I'm also looking for a new hobby like fishing🎣.<br>
 </a>
 </p>
 
-# ⚡ Programming Language and tools
-<p align="left">
-  <a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=javascript&svgfill=f6df1c">
-</a>
- <a href="https://github.com/harish-sethuraman/readme-components">
- <img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=node.js&svgfill=659b60">
-</a>
-<a href="https://github.com/harish-sethuraman/readme-components">
-<img  src="https://readme-components.vercel.app/api?component=logo&fill=black&logo=github">
-</a>
-</p>
 
 <hr>
 <p align="center">
