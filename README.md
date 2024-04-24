@@ -20,8 +20,11 @@ I'm also looking for a new hobby like fishing🎣.<br>
    <i>Reach me on </i>
    <br>
   <br>
-<a target="_blank" href="https://www.linkedin.com/in/calvin-revianto-1413152ba"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
-<a target="_blank" href="mailto:calvinjepara20@gmail.com"><img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a>
+<a target="_blank" href="https://www.linkedin.com/in/calvin-revianto-1413152ba">
+  <img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>
+<a target="_blank" href="mailto:calvinjepara20@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white" alt="Gmail">
+</a>
 </p>
 
 
